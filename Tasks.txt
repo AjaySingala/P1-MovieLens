@@ -1,6 +1,6 @@
 Upload the data into HDFS
 Create tables in HIVE from the uploaded data
-Write queries to get the following results:
+Write HIVE queries to get the following results:
 01. first 5 entries from movies table
 02. number of unique movies
 03. summary of ratings data
